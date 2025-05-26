@@ -1,4 +1,4 @@
-package com.example.order_service.kafka;
+package com.example.order_service.kafka.config;
 
 import com.example.order_service.dto.Order;
 import com.fasterxml.jackson.databind.ObjectMapper;

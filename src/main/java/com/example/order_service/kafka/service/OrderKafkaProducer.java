@@ -1,4 +1,4 @@
-package com.example.order_service.kafka;
+package com.example.order_service.kafka.service;
 
 import com.example.order_service.dto.Order;
 import org.slf4j.Logger;

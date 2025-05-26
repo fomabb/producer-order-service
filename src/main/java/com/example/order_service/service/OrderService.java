@@ -1,7 +1,7 @@
 package com.example.order_service.service;
 
 import com.example.order_service.dto.Order;
-import com.example.order_service.kafka.OrderKafkaProducer;
+import com.example.order_service.kafka.service.OrderKafkaProducer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
